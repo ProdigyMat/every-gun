@@ -6,10 +6,10 @@ local exampleTool = LoadCustomInstance("rbxassetid://11596303308") --The gun mod
 
 -- Create custom shop item
 CustomShop.CreateItem(exampleTool, {
-    Title = "Dorritos!!!",
+    Title = "Dorito Ball Tickler",
     Desc = "Im gonna tickle your balls!",
     Image = "https://cdn.discordapp.com/attachments/880063048839200819/1043206867859558503/image_2022-11-18_115126247-removebg-preview.png",
-    Price = "your dignity",
+    Price = "1",
     Stack = 1,
 })
 
